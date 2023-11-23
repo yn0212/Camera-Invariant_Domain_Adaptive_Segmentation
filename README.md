@@ -37,3 +37,8 @@ Unsupervised Domain Adaptation 기술을 광범위하게 적용해왔습니다.
 
 결과 영상(1,2,3학년 앞 발표라 이해하기 쉽게 만들었음)
 
+
+https://github.com/yn0212/Camera-Invariant_Domain_Adaptive_Segmentation/assets/105347300/458b614b-11e3-4590-a30e-3885d9aed3bf
+
+
+
