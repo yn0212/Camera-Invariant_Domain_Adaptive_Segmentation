@@ -18,7 +18,7 @@ Unsupervised Domain Adaptation 기술을 광범위하게 적용해왔습니다.
 왜곡된 이미지(Target Domain)에 대해서도 고성능의 이미지 분할(Semantic Segmentation)을 수행하는 AI 알고리즘 개발을 제안합니다.
 
 
-[주제]
+[주제].
 카메라 특성 변화에 강인한 Domain Adaptive Semantic Segmentation 알고리즘 개발
 
 ![image](https://github.com/yn0212/Camera-Invariant_Domain_Adaptive_Segmentation/assets/105347300/ddc9fa81-57d7-4c2a-bcd8-415fdc3dc652)
