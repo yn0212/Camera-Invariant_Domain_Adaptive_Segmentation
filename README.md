@@ -33,6 +33,14 @@ Unsupervised Domain Adaptation 기술을 광범위하게 적용해왔습니다.
 * Fisheye: 200도의 시야각(200° F.O.V)을 가지는 어안렌즈 카메라로 촬영된 이미지
 ![image](https://github.com/yn0212/Camera-Invariant_Domain_Adaptive_Segmentation/assets/105347300/1d03aca5-6f93-4149-9cba-d58fdb88871d)
 
+
+
+1.회색 블록 -_resnet50_unet_fish_eye_seg2.ipynb
+![image](https://github.com/yn0212/Camera-Invariant_Domain_Adaptive_Segmentation/assets/105347300/acc273cb-c853-4662-bd36-cdf57c0bcabe)
+
+-fish eye transform augmentation 위주 모델 최적화 알고리즘 설계 및 ensemble
+
+2. uda 기법 공부
 ![image](https://github.com/yn0212/Camera-Invariant_Domain_Adaptive_Segmentation/assets/105347300/5b2adb7c-33cd-447d-9829-47989cae3b6a)
 
 daformer참고 논문 : https://arxiv.org/abs/2111.14887
