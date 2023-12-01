@@ -1,5 +1,5 @@
 # Camera-Invariant_Domain_Adaptive_Segmentation
-카메라 특성 변화에 강인한 Domain Adaptive Semantic Segmentation 알고리즘 개발
+카메라 특성 변화에 강인한 Domain Adaptive Semantic Segmentation 알고리즘 개발.
 # [배경]
 자율주행은 다양한 센서들을 사용해 주변 상황을 인식하고 이를 바탕으로 차량을 제어하게 됩니다. 
 
