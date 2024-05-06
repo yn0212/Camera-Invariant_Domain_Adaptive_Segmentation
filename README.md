@@ -43,7 +43,7 @@ Unsupervised Domain Adaptation 기술을 광범위하게 적용해왔습니다.
 
 -fish eye transform augmentation 위주 모델 최적화 알고리즘 설계 및 ensemble
 
-# 2. uda 기법 적용 
+# 2. uda 기법 공부 및 적용
    
 ![image](https://github.com/yn0212/Camera-Invariant_Domain_Adaptive_Segmentation/assets/105347300/5b2adb7c-33cd-447d-9829-47989cae3b6a)
 
